@@ -1,0 +1,88 @@
+.location-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.location-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-layout-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.location-content {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.location-ul {
+  align-items: flex-start;
+}
+ 
+.location-heading1 {
+  align-self: flex-start;
+}
+ 
+.location-fragment1 {
+  display: contents;
+}
+ 
+.location-text1 {
+  display: inline-block;
+}
+ 
+.location-fragment2 {
+  display: contents;
+}
+ 
+.location-text2 {
+  display: inline-block;
+}
+ 
+.location-fragment3 {
+  display: contents;
+}
+ 
+.location-text3 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.location-fragment4 {
+  display: contents;
+}
+ 
+.location-text4 {
+  display: inline-block;
+}
+ 
+.location-fragment5 {
+  display: contents;
+}
+ 
+.location-text5 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.location-fragment6 {
+  display: contents;
+}
+ 
+.location-text6 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+
+ 
+@media(max-width: 479px) {
+  .locationroot-class-name {
+    width: auto;
+  }
+}

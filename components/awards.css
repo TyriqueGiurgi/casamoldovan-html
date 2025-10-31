@@ -1,0 +1,223 @@
+.awards-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.awards-section-title {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.awards-title {
+  width: 100%;
+  text-align: center;
+}
+ 
+.awards-subtitle {
+  text-align: center;
+}
+ 
+.awards-content {
+  gap: var(--dl-layout-space-twounits);
+}
+ 
+.awards-column1 {
+  flex: 1;
+  height: 305px;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.awards-text10 {
+  align-self: center;
+}
+ 
+.awards-text11 {
+  align-self: center;
+}
+ 
+.awards-text12 {
+  height: auto;
+  align-self: flex-start;
+  text-align: left;
+}
+ 
+.awards-avatar {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-items: center;
+}
+ 
+.awards-avatar-content {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.awards-column2 {
+  flex: 1;
+  height: 306px;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.awards-text13 {
+  align-self: center;
+}
+ 
+.awards-text14 {
+  align-self: center;
+}
+ 
+.awards-text15 {
+  height: auto;
+}
+ 
+.awards-column3 {
+  flex: 1;
+  height: 308px;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.awards-text16 {
+  align-self: center;
+}
+ 
+.awards-text17 {
+  align-self: center;
+}
+ 
+.awards-text18 {
+  height: auto;
+}
+ 
+.awards-fragment10 {
+  display: contents;
+}
+ 
+.awards-text19 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment11 {
+  display: contents;
+}
+ 
+.awards-text20 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment12 {
+  display: contents;
+}
+ 
+.awards-text21 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment13 {
+  display: contents;
+}
+ 
+.awards-text22 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment14 {
+  display: contents;
+}
+ 
+.awards-text23 {
+  display: inline-block;
+}
+ 
+.awards-fragment15 {
+  display: contents;
+}
+ 
+.awards-text24 {
+  display: inline-block;
+  font-size: 35px;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment16 {
+  display: contents;
+}
+ 
+.awards-text25 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment17 {
+  display: contents;
+}
+ 
+.awards-text26 {
+  display: inline-block;
+  font-size: 30px;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment18 {
+  display: contents;
+}
+ 
+.awards-text27 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment19 {
+  display: contents;
+}
+ 
+.awards-text28 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.awards-fragment20 {
+  display: contents;
+}
+ 
+.awards-text29 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+
+ 
+@media(max-width: 991px) {
+  .awards-max-width {
+    gap: var(--dl-layout-space-threeunits);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .awards-section-title {
+    width: 100%;
+    max-width: 800px;
+  }
+  .awards-content {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,449 @@
+.services-pricing4 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.services-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.services-section-title {
+  gap: var(--dl-layout-space-unit);
+  width: 100%;
+  display: flex;
+  max-width: 800px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.services-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.services-text10 {
+  text-align: center;
+}
+ 
+.services-text11 {
+  text-align: center;
+}
+ 
+.services-content2 {
+  gap: var(--dl-layout-space-twounits);
+  width: 100%;
+  display: flex;
+  max-width: 800px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.services-price-title1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.services-price-title2 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.services-title {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.services-text12 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.services-content3 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.services-text14 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-content4 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  padding-top: var(--dl-layout-space-halfunit);
+  padding-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.services-list1 {
+  gap: var(--dl-layout-space-unit);
+  flex: 1;
+  width: auto;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.services-list-item10 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text15 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item11 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text16 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item12 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text17 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item13 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text18 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item14 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text19 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list2 {
+  gap: var(--dl-layout-space-unit);
+  flex: 1;
+  width: auto;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.services-list-item15 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text20 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item16 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text21 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item17 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text22 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item18 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text23 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-list-item19 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.services-text24 {
+  font-family: "STIX Two Text";
+}
+ 
+.services-button {
+  width: auto;
+  align-self: center;
+  border-color: #ffffff;
+  padding-left: var(--dl-layout-space-oneandhalfunits);
+  justify-content: center;
+  background-color: #407540;
+}
+ 
+.services-fragment10 {
+  display: contents;
+}
+ 
+.services-text25 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment11 {
+  display: contents;
+}
+ 
+.services-text26 {
+  display: inline-block;
+  font-style: normal;
+  font-family: "Spectral";
+  font-weight: 700;
+}
+ 
+.services-fragment12 {
+  display: contents;
+}
+ 
+.services-text27 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment13 {
+  display: contents;
+}
+ 
+.services-text28 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment14 {
+  display: contents;
+}
+ 
+.services-text29 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment15 {
+  display: contents;
+}
+ 
+.services-text30 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment16 {
+  display: contents;
+}
+ 
+.services-text31 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment17 {
+  display: contents;
+}
+ 
+.services-text32 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment18 {
+  display: contents;
+}
+ 
+.services-text33 {
+  display: inline-block;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.services-fragment19 {
+  display: contents;
+}
+ 
+.services-text34 {
+  display: inline-block;
+  font-style: normal;
+  font-family: "Spectral";
+  font-weight: 700;
+}
+ 
+.services-fragment20 {
+  display: contents;
+}
+ 
+.services-text35 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment21 {
+  display: contents;
+}
+ 
+.services-text36 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment22 {
+  display: contents;
+}
+ 
+.services-text37 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment23 {
+  display: contents;
+}
+ 
+.services-text38 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment24 {
+  display: contents;
+}
+ 
+.services-text39 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.services-fragment25 {
+  display: contents;
+}
+ 
+.services-text40 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+
+ 
+@media(max-width: 479px) {
+  .services-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .services-price-title1 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .services-price-title2 {
+    align-items: center;
+    justify-content: center;
+  }
+  .services-title {
+    align-items: center;
+    justify-content: center;
+  }
+  .services-text12 {
+    text-align: center;
+  }
+  .services-text13 {
+    text-align: center;
+  }
+  .services-content4 {
+    flex-direction: column;
+  }
+  .services-list1 {
+    width: 100%;
+  }
+  .services-list2 {
+    width: 100%;
+  }
+  .services-button {
+    width: auto;
+  }
+  .servicesroot-class-name {
+    width: auto;
+  }
+}
