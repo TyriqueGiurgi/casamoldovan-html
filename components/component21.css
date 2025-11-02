@@ -1,0 +1,17 @@
+.component21-container {
+  display: contents;
+}
+ 
+.component21-video {
+  width: 100%;
+  height: 100%;
+}
+ 
+
+ 
+@media(max-width: 479px) {
+  .component21-video {
+    width: 100%;
+    height: 100%;
+  }
+}

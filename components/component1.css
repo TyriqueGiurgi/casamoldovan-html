@@ -1,0 +1,29 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+ 
+.component1-google-maps {
+  width: 969px;
+  height: 242px;
+}
+ 
+@media(max-width: 991px) {
+  .component1-google-maps {
+    width: 709px;
+    padding-right: 0px;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .component1-google-maps {
+    width: 392px;
+    padding-right: 0px;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .component1-google-maps {
+    width: 279px;
+  }
+}
